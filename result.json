@@ -1,0 +1,2352 @@
+{
+  "student_name": "Priya Sharma",
+  "generated_at": "2026-06-11T11:50:25Z",
+  "total": 60,
+  "tier_summary": {
+    "reach": 0,
+    "target": 60,
+    "safety": 0
+  },
+  "shortlist": [
+    {
+      "name": "Sagi Eppel",
+      "institution": "University of Toronto",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Artificial intelligence, Computer science, Texture (cosmology), Computer vision, Pattern recognition (psychology)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Shape and Texture Recognition in Large Vision-Language Models",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2503.23062"
+          },
+          {
+            "title": "Do large language vision models understand 3D shapes?",
+            "year": 2024,
+            "url": "https://doi.org/10.48550/arxiv.2412.10908"
+          },
+          {
+            "title": "Vastextures: Vast repository of textures and PBR materials extracted from real-world images using unsupervised methods",
+            "year": 2024,
+            "url": "https://doi.org/10.48550/arxiv.2406.17146"
+          },
+          {
+            "title": "Learning Zero-Shot Material States Segmentation, by Implanting Natural Image Patterns in Synthetic Data",
+            "year": 2024,
+            "url": "https://doi.org/10.48550/arxiv.2403.03309"
+          },
+          {
+            "title": "Infusing Synthetic Data with Real-World Patterns for Zero-Shot Material State Segmentation",
+            "year": 2024,
+            "url": "https://doi.org/10.52202/079017-1925"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5021796022"
+      },
+      "why_match": "Professor Sagi Eppel's work on shape and texture recognition in large vision-language models aligns closely with my interests in computer vision and machine learning. His research on understanding 3D shapes through AI could provide valuable insights for my exploration of visual data interpretation.",
+      "tier": "target"
+    },
+    {
+      "name": "Ben Hamner",
+      "institution": "Université de Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Artificial intelligence, Machine learning, State (computer science), History",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Evaluation Metrics for Machine Learning [R package Metrics version 0.1.4]",
+            "year": 2018,
+            "url": "https://openalex.org/W3090117024"
+          },
+          {
+            "title": "Contrasting State-of-the-Art Automated Scoring of Essays",
+            "year": 2015,
+            "url": "https://doi.org/10.4324/9780203122761.ch19"
+          },
+          {
+            "title": "Challenges in representation learning: A report on three machine learning contests",
+            "year": 2014,
+            "url": "https://doi.org/10.1016/j.neunet.2014.09.005"
+          },
+          {
+            "title": "Observing Dark Worlds: A crowdsourcing experiment for dark matter mapping",
+            "year": 2014,
+            "url": "https://doi.org/10.1016/j.ascom.2014.04.003"
+          },
+          {
+            "title": "The Microsoft Academic Search challenges at KDD Cup 2013",
+            "year": 2013,
+            "url": "https://doi.org/10.1109/bigdata.2013.6691761"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5049495063"
+      },
+      "why_match": "Professor Ben Hamner's focus on evaluation metrics for machine learning and automated scoring of essays resonates with my interest in natural language processing. His expertise in machine learning methodologies would be instrumental in guiding my research on developing robust NLP systems.",
+      "tier": "target"
+    },
+    {
+      "name": "Naveed Ejaz",
+      "institution": "Queen's University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Question answering, Robustness (evolution), Ranking (information retrieval), Baseline (sea)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Intra-Video Temporal-Aware RAG: A Self-Contained Framework for Video-Based Question Answering",
+            "year": 2026,
+            "url": "https://doi.org/10.32604/cmc.2026.081534"
+          },
+          {
+            "title": "LM4Opt-RA: A Multi-Candidate LLM Framework with Structured Ranking for Automating Network Resource Allocation",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2512.00039"
+          },
+          {
+            "title": "A comprehensive survey of the machine learning pipeline for wildfire risk prediction and assessment",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.ecoinf.2025.103325"
+          },
+          {
+            "title": "An interpretable multi-transformer ensemble for text-based movie genre classification",
+            "year": 2025,
+            "url": "https://doi.org/10.7717/peerj-cs.2945"
+          },
+          {
+            "title": "Generative AI-driven edge-cloud system for intelligent road infrastructure inspection",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.rineng.2025.105844"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5022582952"
+      },
+      "why_match": "Professor Naveed Ejaz's research on question answering and information retrieval directly connects with my passion for natural language processing. His work on video-based question answering could inspire innovative approaches in my own research on understanding and generating human language.",
+      "tier": "target"
+    },
+    {
+      "name": "Greg Mori",
+      "institution": "Simon Fraser University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Debiasing, Computer science, Transformer, Reinforcement learning, Artificial intelligence",
+      "evidence": {
+        "papers": [
+          {
+            "title": "FairNVT: Improving Fairness via Noise Injection in Vision Transformers",
+            "year": 2026,
+            "url": "https://openalex.org/W7155245191"
+          },
+          {
+            "title": "FairNVT: Improving Fairness via Noise Injection in Vision Transformers",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2604.16780"
+          },
+          {
+            "title": "TabReason: A Reinforcement Learning-Enhanced Reasoning LLM for Explainable Tabular Data Prediction",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2505.21807"
+          },
+          {
+            "title": "Attention as an RNN",
+            "year": 2024,
+            "url": "https://doi.org/10.48550/arxiv.2405.13956"
+          },
+          {
+            "title": "Pretext Training Algorithms for Event Sequence Data",
+            "year": 2024,
+            "url": "https://doi.org/10.48550/arxiv.2402.10392"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5110713539"
+      },
+      "why_match": "Professor Greg Mori's studies on debiasing in vision transformers are particularly relevant to my interests in computer vision and machine learning. His focus on fairness in AI systems aligns with my goal of developing ethical and unbiased machine learning applications.",
+      "tier": "target"
+    },
+    {
+      "name": "William McNally",
+      "institution": "University of Waterloo",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Ball (mathematics), Aerodynamics, Artificial neural network, Computer science, Calibration",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Microsoft COCO Keypoints",
+            "year": 2024,
+            "url": "https://doi.org/10.57702/tnyc6sz1"
+          },
+          {
+            "title": "Combining Physics and Deep Learning Models to Simulate the Flight of a Golf Ball",
+            "year": 2023,
+            "url": "https://doi.org/10.1109/cvprw59228.2023.00540"
+          },
+          {
+            "title": "Toward Efficient Calibration of Higher‐Resolution Earth System Models",
+            "year": 2022,
+            "url": "https://doi.org/10.1029/2021ms002836"
+          },
+          {
+            "title": "Ice hockey player identification via transformers and weakly supervised learning",
+            "year": 2022,
+            "url": "https://doi.org/10.1109/cvprw56347.2022.00389"
+          },
+          {
+            "title": "Environment Classification for Robotic Leg Prostheses and Exoskeletons Using Deep Convolutional Neural Networks",
+            "year": 2022,
+            "url": "https://doi.org/10.3389/fnbot.2021.730965"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5071428881"
+      },
+      "why_match": "Professor William McNally's integration of artificial neural networks with physics simulations is intriguing and complements my interests in machine learning. His innovative approach could provide a unique perspective on applying deep learning techniques to real-world problems.",
+      "tier": "target"
+    },
+    {
+      "name": "Diana Inkpen",
+      "institution": "University of Ottawa",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Scopus, China, Key (lock), Presupposition, Computer science",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Forty Years of <i>Computational Intelligence</i> : A Bibliometric Retrospective",
+            "year": 2026,
+            "url": "https://doi.org/10.1111/coin.70201"
+          },
+          {
+            "title": "Let's CONFER: A Dataset for Evaluating Natural Language Inference Models on CONditional InFERence and Presupposition",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2506.06133"
+          },
+          {
+            "title": "Damage Detection for a Cantilevered Steel I-Beam through Deep-Learning Methods: LSTM, Multivariate Time-Series Transformer, and LSTM-Based Autoencoder",
+            "year": 2025,
+            "url": "https://doi.org/10.1061/jccee5.cpeng-6116"
+          },
+          {
+            "title": "A Context-Aware Contrastive Learning Framework for Hateful Meme Detection and Segmentation",
+            "year": 2025,
+            "url": "https://doi.org/10.18653/v1/2025.findings-naacl.289"
+          },
+          {
+            "title": "Prompt Engineering for Capturing Dynamic Mental Health Self States from Social Media Posts",
+            "year": 2025,
+            "url": "https://doi.org/10.18653/v1/2025.clpsych-1.22"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5009188443"
+      },
+      "why_match": "Professor Diana Inkpen's work on natural language inference models aligns perfectly with my research interests in natural language processing. Her extensive experience in evaluating computational intelligence would be invaluable as I seek to advance my understanding of language models.",
+      "tier": "target"
+    },
+    {
+      "name": "Yuhong Guo",
+      "institution": "Carleton University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Artificial intelligence, Semi-supervised learning, Machine learning, Generator (circuit theory)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "A Unified Framework for Heterogeneous Semi-supervised Learning",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/cvpr52734.2025.01432"
+          },
+          {
+            "title": "Bi-Level Optimization for Semi-Supervised Learning with Pseudo-Labeling",
+            "year": 2025,
+            "url": "https://doi.org/10.1609/aaai.v39i16.33887"
+          },
+          {
+            "title": "A Unified Framework for Heterogeneous Semi-supervised Learning",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2503.00286"
+          },
+          {
+            "title": "Single Domain Generalization with Model-aware Parametric Batch-wise Mixup",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2502.16064"
+          },
+          {
+            "title": "Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/978-3-031-82240-7_11"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5043824291"
+      },
+      "why_match": "Professor Yuhong Guo's research on semi-supervised learning and its applications in machine learning resonates with my interests in developing efficient learning algorithms. His work could greatly enhance my understanding of how to leverage limited labeled data in NLP tasks.",
+      "tier": "target"
+    },
+    {
+      "name": "Vijay Ganesh",
+      "institution": "University of Waterloo",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Dual (grammatical number), Resolution (logic), Computer science, DPLL algorithm, Mathematics",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Extended Resolution Clause Learning via Dual Implication Points",
+            "year": 2026,
+            "url": "https://doi.org/10.46298/lmcs-22(2:23)2026"
+          },
+          {
+            "title": "An Exponential Separation between Deterministic CDCL and DPLL Solvers",
+            "year": 2026,
+            "url": "https://openalex.org/W7139143830"
+          },
+          {
+            "title": "An Exponential Separation between Deterministic CDCL and DPLL Solvers",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2603.16156"
+          },
+          {
+            "title": "Learning SMT Algorithm Selection with High-Level Natural-Language Descriptions",
+            "year": 2026,
+            "url": "https://doi.org/10.1007/978-3-032-21540-6_23"
+          },
+          {
+            "title": "Report for NSF Workshop on AI for Electronic Design Automation [NSF Workshop Report]",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/mcas.2026.3662307"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5052292970"
+      },
+      "why_match": "Professor Vijay Ganesh's focus on logic and resolution in computer science offers a unique angle that could enrich my understanding of machine learning frameworks. His research on DPLL algorithms could provide insights into optimizing algorithms for natural language processing tasks.",
+      "tier": "target"
+    },
+    {
+      "name": "Fangxiang Feng",
+      "institution": "Université de Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Paraphrase, Phrase, Computer science, Artificial intelligence, Schema (genetic algorithms)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "A fine-grained entity understanding network for weakly supervised phrase grounding",
+            "year": 2026,
+            "url": "https://doi.org/10.1016/j.patcog.2026.114075"
+          },
+          {
+            "title": "Data-Bridge: A Multi-Agent System for Code-Based Multimodal Schema Alignment",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/icassp55912.2026.11464693"
+          },
+          {
+            "title": "Diffusion-Assisted Progressive Learning for Weakly Supervised Phrase Localization",
+            "year": 2026,
+            "url": "https://doi.org/10.1609/aaai.v40i38.40473"
+          },
+          {
+            "title": "Towards balancing the efficiency and effectiveness: a unified edit-based framework for automatic image captioning",
+            "year": 2026,
+            "url": "https://doi.org/10.1007/s00530-025-02179-5"
+          },
+          {
+            "title": "Diffusion-Assisted Progressive Learning for Weakly Supervised Phrase Localization",
+            "year": 2026,
+            "url": "https://doi.org/10.48448/0dtb-pe48"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5013283012"
+      },
+      "why_match": "Professor Fangxiang Feng's work on paraphrase detection and multimodal schema alignment is highly relevant to my interests in natural language processing. His research on fine-grained entity understanding could inform my approach to developing more sophisticated NLP models.",
+      "tier": "target"
+    },
+    {
+      "name": "Ameen Amanian",
+      "institution": "University of British Columbia",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Medicine, Head and neck, Artificial intelligence, Hausdorff distance, Pipeline (software)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Machine Learning to Predict Extranodal Extension in Head and Neck Squamous Cell Carcinoma: A Systematic Review and Meta‐Analysis",
+            "year": 2025,
+            "url": "https://doi.org/10.1002/lary.70194"
+          },
+          {
+            "title": "Deep Learning Pipeline for Automated Assessment of Distances Between Tonsillar Tumors and the Internal Carotid Artery",
+            "year": 2025,
+            "url": "https://doi.org/10.1002/hed.28200"
+          },
+          {
+            "title": "Applications of Natural Language Processing in Otolaryngology: A Scoping Review",
+            "year": 2025,
+            "url": "https://doi.org/10.1002/lary.32198"
+          },
+          {
+            "title": "Predicting Tracheostomy Need on Admission to the Intensive Care Unit—A Multicenter Machine Learning Analysis",
+            "year": 2024,
+            "url": "https://doi.org/10.1002/ohn.919"
+          },
+          {
+            "title": "A Label‐Efficient Framework for Automated Sinonasal CT Segmentation in Image‐Guided Surgery",
+            "year": 2024,
+            "url": "https://doi.org/10.1002/ohn.868"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5031005321"
+      },
+      "why_match": "Professor Ameen Amanian's application of machine learning in medical contexts, particularly in predicting outcomes in head and neck cancers, intersects with my interests in computer vision and AI. His work could inspire innovative applications of machine learning in healthcare-related NLP tasks.",
+      "tier": "target"
+    },
+    {
+      "name": "Ranga Rodrigo",
+      "institution": "Western University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Artificial intelligence, Feature (linguistics), Radial basis function, Basis (linear algebra)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Vc-fes: viewpoint-conditioned feature selection for vehicle re-identification in thermal vision",
+            "year": 2026,
+            "url": "https://doi.org/10.1007/s13042-026-03049-w"
+          },
+          {
+            "title": "DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/wacv61042.2026.00438"
+          },
+          {
+            "title": "SENCA-st: Integrating Spatial Transcriptomics and Histopathology with Cross Attention Shared Encoder for Region Identification in Cancer Pathology",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/wacv61042.2026.00349"
+          },
+          {
+            "title": "SemAlign: Language Guided Semi-supervised Domain Generalization",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2601.11724"
+          },
+          {
+            "title": "SemAlign: Language Guided Semi-supervised Domain Generalization",
+            "year": 2026,
+            "url": "https://openalex.org/W7125351516"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5058175691"
+      },
+      "why_match": "Professor Ranga Rodrigo's work on feature selection and radial basis functions aligns well with my interest in machine learning and computer vision. His recent research on viewpoint-conditioned feature selection for vehicle re-identification could provide valuable insights into how to enhance model performance in visual tasks, which is an area I am eager to explore.",
+      "tier": "target"
+    },
+    {
+      "name": "Sébastien Jean",
+      "institution": "Université de Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Leverage (statistics), Parsing, Concatenation (mathematics), Machine translation",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Measuring and Mitigating Constraint Violations of In-Context Learning for Utterance-to-API Semantic Parsing",
+            "year": 2023,
+            "url": "https://doi.org/10.18653/v1/2023.findings-emnlp.478"
+          },
+          {
+            "title": "Log-Linear Reformulation of the Noisy Channel Model for Document-Level Neural Machine Translation",
+            "year": 2020,
+            "url": "https://doi.org/10.18653/v1/2020.spnlp-1.11"
+          },
+          {
+            "title": "Fill in the Blanks: Imputing Missing Sentences for Larger-Context Neural Machine Translation",
+            "year": 2019,
+            "url": "https://doi.org/10.48550/arxiv.1910.14075"
+          },
+          {
+            "title": "Adaptive Scheduling for Multi-Task Learning",
+            "year": 2019,
+            "url": "https://doi.org/10.48550/arxiv.1909.06434"
+          },
+          {
+            "title": "Context-Aware Learning for Neural Machine Translation",
+            "year": 2019,
+            "url": "https://doi.org/10.48550/arxiv.1903.04715"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5051608757"
+      },
+      "why_match": "Professor Sébastien Jean's focus on parsing and semantic understanding in natural language processing resonates with my research interests. His work on in-context learning for utterance-to-API semantic parsing could inform my approach to developing more effective NLP models.",
+      "tier": "target"
+    },
+    {
+      "name": "Wassim Bouachir",
+      "institution": "Université du Québec à Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Task (project management), Benchmarking, Risk assessment, Computer science, Query expansion",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2605.22904"
+          },
+          {
+            "title": "Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations",
+            "year": 2026,
+            "url": "https://openalex.org/W7162474636"
+          },
+          {
+            "title": "Spatio-Temporal Query Distillation: Selective Memory Retrieval for Video ObjectDetection",
+            "year": 2026,
+            "url": "https://doi.org/10.2139/ssrn.6391562"
+          },
+          {
+            "title": "Parkinson's Disease Severity Assessment from Gait Patterns: A CNN-Transformer Hybrid Approach",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/icta-atsn68371.2025.11398236"
+          },
+          {
+            "title": "From unaltered raw waveform to emotion: Synergizing convolutional and gated recurrent networks for holistic speech emotion analysis",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/s10489-025-06620-0"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5000251216"
+      },
+      "why_match": "Professor Wassim Bouachir's research on AI-powered video surveillance and risk assessment intersects with my interests in machine learning and computer vision. His innovative approach to interpreting AI outputs in critical applications could inspire my own work in developing interpretable models.",
+      "tier": "target"
+    },
+    {
+      "name": "Giuliano Antoniol",
+      "institution": "Polytechnique Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Benchmarking, Benchmark (surveying), Artificial intelligence, Machine learning",
+      "evidence": {
+        "papers": [
+          {
+            "title": "TaskEval: Assessing Difficulty of Code Generation Tasks for Large Language Models",
+            "year": 2025,
+            "url": "https://doi.org/10.1145/3773285"
+          },
+          {
+            "title": "How Do Papers Make Into Machine Learning Frameworks: a Preliminary Study on Tensorflow",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/icpc66645.2025.00046"
+          },
+          {
+            "title": "Bugs in large language models generated code: an empirical study",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/s10664-025-10614-4"
+          },
+          {
+            "title": "Recovering Traceability Links Between Code and Documentation: A Retrospective",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/tse.2025.3534027"
+          },
+          {
+            "title": "The downside of functional constructs: a quantitative and qualitative analysis of their fix-inducing effects",
+            "year": 2024,
+            "url": "https://doi.org/10.1007/s10664-024-10568-z"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5018821149"
+      },
+      "why_match": "Professor Giuliano Antoniol's studies on benchmarking and task evaluation for large language models align with my passion for natural language processing. His insights into assessing code generation tasks could enhance my understanding of model capabilities and limitations in NLP.",
+      "tier": "target"
+    },
+    {
+      "name": "Ji-Rong Wen",
+      "institution": "Université de Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Language model, Computer science, Mainstream, Foundation (evidence), Crystal structure prediction",
+      "evidence": {
+        "papers": [
+          {
+            "title": "A Survey of Large Language Models",
+            "year": 2026,
+            "url": "https://doi.org/10.1007/s11704-026-60308-3"
+          },
+          {
+            "title": "Siamese foundation models for crystal structure prediction",
+            "year": 2026,
+            "url": "https://doi.org/10.1038/s41467-026-72362-3"
+          },
+          {
+            "title": "DeepAgent: A General Reasoning Agent with Scalable Toolsets",
+            "year": 2026,
+            "url": "https://doi.org/10.1145/3774904.3792460"
+          },
+          {
+            "title": "Toward Generalized Web Agent Training: A Deep Dive into Entropy-Balanced Reinforcement Learning",
+            "year": 2026,
+            "url": "https://doi.org/10.1145/3774904.3792301"
+          },
+          {
+            "title": "LLaDA2.0: Scaling Up Diffusion Language Models to 100B",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2512.15745"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5025631695"
+      },
+      "why_match": "Professor Ji-Rong Wen's research on large language models and their applications is directly relevant to my interests in NLP. His survey of these models could provide a solid foundation for my exploration of their capabilities in various linguistic tasks.",
+      "tier": "target"
+    },
+    {
+      "name": "Young‐Jin Cha",
+      "institution": "University of Manitoba",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Machine learning, Artificial intelligence, Computer science, Social media, Mental health",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Enhanced prediction of persistent earthquake-induced groundwater level changes with advanced feature engineering and machine learning",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/s00530-025-02043-6"
+          },
+          {
+            "title": "Multi-modal deep-attention-BiLSTM based early detection of mental health issues using social media posts",
+            "year": 2025,
+            "url": "https://doi.org/10.1038/s41598-025-19141-0"
+          },
+          {
+            "title": "High-Definition 3D Digital Twin for Damage Mapping for Bridge Systems Using Advanced NeRF and STRNet",
+            "year": 2025,
+            "url": "https://doi.org/10.12783/shm2025/37370"
+          },
+          {
+            "title": "Deep learning-based 3D image reconstruction and damage mapping using neural radiance fields (Nerfacto)",
+            "year": 2025,
+            "url": "https://doi.org/10.1177/14759217251340416"
+          },
+          {
+            "title": "Enhanced Prediction of Persistent Earthquake-Induced Groundwater Level Changes with Advanced Feature Engineering and Machine Learning",
+            "year": 2025,
+            "url": "https://doi.org/10.21203/rs.3.rs-6649664/v1"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5085091554"
+      },
+      "why_match": "Professor Young-Jin Cha's work on machine learning applications in social media aligns with my interests in both machine learning and natural language processing. His research on early detection of mental health issues using social media posts could inspire innovative approaches to NLP in real-world contexts.",
+      "tier": "target"
+    },
+    {
+      "name": "Devon Livingstone",
+      "institution": "University of Calgary",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Medicine, Prospective cohort study, Vocal cord paralysis, Medical diagnosis, Artificial intelligence",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Developing an Artificial Intelligence Tool to Predict Vocal Cord Pathology in Primary Care Settings",
+            "year": 2022,
+            "url": "https://doi.org/10.1002/lary.30432"
+          },
+          {
+            "title": "Otoscopic diagnosis using computer vision: An automated machine learning approach",
+            "year": 2019,
+            "url": "https://doi.org/10.1002/lary.28292"
+          },
+          {
+            "title": "A Novel Multi-Biomarker Assay for Non-Invasive Quantitative Monitoring of Kidney Injury",
+            "year": 2019,
+            "url": "https://doi.org/10.3390/jcm8040499"
+          },
+          {
+            "title": "A Novel Multi-Biomarker Assay for Non-Invasive Quantitative Monitoring of Kidney Injury",
+            "year": 2019,
+            "url": "https://openalex.org/W3124818621"
+          },
+          {
+            "title": "Building an Otoscopic screening prototype tool using deep learning",
+            "year": 2019,
+            "url": "https://doi.org/10.1186/s40463-019-0389-9"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5035658673"
+      },
+      "why_match": "Professor Devon Livingstone's application of computer vision in medical diagnosis is intriguing and complements my interests in machine learning. His work on automating otoscopic diagnosis could provide insights into how computer vision techniques can be applied to other domains.",
+      "tier": "target"
+    },
+    {
+      "name": "Louise Guthrie",
+      "institution": "Lockheed Martin (Canada)",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Semantics (computer science), Programming language, Artificial intelligence, Natural language processing",
+      "evidence": {
+        "papers": [
+          {
+            "title": "BeSt: The Belief and Sentiment Corpus",
+            "year": 2022,
+            "url": "https://doi.org/10.63317/4run4u9jq8mx"
+          },
+          {
+            "title": "Proceedings of the Workshop on Computational Semantics beyond Events and Roles",
+            "year": 2018,
+            "url": "https://doi.org/10.18653/v1/w18-13"
+          },
+          {
+            "title": "A New Dataset and Evaluation for Belief/Factuality",
+            "year": 2015,
+            "url": "https://doi.org/10.18653/v1/s15-1009"
+          },
+          {
+            "title": "A Problem of Representation of Positive Integers",
+            "year": 2013,
+            "url": "https://openalex.org/W2210621859"
+          },
+          {
+            "title": "Subject-dependent Co-occurance",
+            "year": 2013,
+            "url": "https://openalex.org/W287240620"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5110688695"
+      },
+      "why_match": "Professor Louise Guthrie's research on semantics in artificial intelligence is closely related to my interests in natural language processing. Her work on the Belief and Sentiment Corpus could inform my understanding of how semantics can enhance NLP models.",
+      "tier": "target"
+    },
+    {
+      "name": "Ashirbani Saha",
+      "institution": "Population Health Research Institute",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Benchmarking, Computer science, Artificial intelligence, Business, Interpretability",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Fine-Tuning and Benchmarking Transformer Models for Multiclass Classification of Clinical Research Papers: Retrospective Modeling Study",
+            "year": 2026,
+            "url": "https://doi.org/10.2196/77311"
+          },
+          {
+            "title": "Work-Life Imbalance: A Challenge and an Opportunity for Neurosurgery: Corrigendum",
+            "year": 2026,
+            "url": "https://doi.org/10.1227/neuprac.0000000000000200"
+          },
+          {
+            "title": "Zero-shot interpretable biomedical literature appraisal with generative large language models",
+            "year": 2026,
+            "url": "https://doi.org/10.1093/jamiaopen/ooag043"
+          },
+          {
+            "title": "From radiology findings to artificial intelligence-powered impressions: A retrospective study on the comparative performance of recent large language models",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.imed.2025.11.003"
+          },
+          {
+            "title": "The performance of Covidence: An artificial intelligence-based tool for title and abstract screening in a breast cancer evidence-based clinical practice guideline",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.imed.2025.12.008"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5054599006"
+      },
+      "why_match": "Professor Ashirbani Saha's focus on benchmarking transformer models for classification tasks aligns with my interests in machine learning. His work on fine-tuning models for clinical research could provide valuable methodologies applicable to NLP tasks.",
+      "tier": "target"
+    },
+    {
+      "name": "Salimur Choudhury",
+      "institution": "Queen's University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Code (set theory), Testbed, Function (biology), Wearable computer",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Vision Language Models for Optimization-Driven Intent Processing in Autonomous Networks",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2601.12744"
+          },
+          {
+            "title": "Vision Language Models for Optimization-Driven Intent Processing in Autonomous Networks",
+            "year": 2026,
+            "url": "https://openalex.org/W7125352570"
+          },
+          {
+            "title": "mind_call: A Dataset for Mental Health Function Calling with Large Language Models",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2601.06937"
+          },
+          {
+            "title": "mind_call: A Dataset for Mental Health Function Calling with Large Language Models",
+            "year": 2026,
+            "url": "https://openalex.org/W7124117519"
+          },
+          {
+            "title": "From Design to Development: Engineering a Multi-LLM Agentic AI System",
+            "year": 2026,
+            "url": "https://doi.org/10.36227/techrxiv.176801000.08676998/v1"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5032858073"
+      },
+      "why_match": "Professor Salimur Choudhury's research on vision language models for intent processing is particularly relevant to my interests in both computer vision and natural language processing. His work could inspire innovative approaches to integrating visual and textual data in machine learning applications.",
+      "tier": "target"
+    },
+    {
+      "name": "Ching Y. Suen",
+      "institution": "Concordia University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Stain, Computer science, Workflow, Robustness (evolution), Artificial intelligence",
+      "evidence": {
+        "papers": [
+          {
+            "title": "A systematic review of machine learning for digital stain processing in pathology",
+            "year": 2026,
+            "url": "https://doi.org/10.1016/j.neucom.2026.133064"
+          },
+          {
+            "title": "Context-aware contrastive learning via structural harmony preservation for generalized category discovery",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.knosys.2025.114942"
+          },
+          {
+            "title": "CalliNet: a triplet network for chinese calligraphy style classification",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/s10032-025-00559-1"
+          },
+          {
+            "title": "2D and 3D Detection of Counterfeit Coins",
+            "year": 2025,
+            "url": "https://doi.org/10.1142/9789819807154_0002"
+          },
+          {
+            "title": "ChatGPT vs. Google Search on Drones",
+            "year": 2025,
+            "url": "https://doi.org/10.1142/9789819807154_0021"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5059479627"
+      },
+      "why_match": "Professor Ching Y. Suen's work on machine learning for digital stain processing in pathology aligns well with my interest in applying machine learning techniques to real-world problems. His recent research on context-aware contrastive learning could provide valuable insights into enhancing the robustness of models, which is a key area I am eager to explore.",
+      "tier": "target"
+    },
+    {
+      "name": "Jie Liang",
+      "institution": "Simon Fraser University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Geology, Accretionary wedge, Natural gas, View synthesis, Computer science",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Free Gas Accumulation System in the Makran Accretionary Prism",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/s11802-025-6079-5"
+          },
+          {
+            "title": "A Low-Complexity View Synthesis Distortion Estimation Method for 3D Video with Large Baseline Considerations",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2510.17037"
+          },
+          {
+            "title": "Hierarchical Saliency Feature Learning with Tree Structure for Infrared Small Target Detection",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/migars67156.2025.11232369"
+          },
+          {
+            "title": "Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/cvpr52734.2025.01540"
+          },
+          {
+            "title": "3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2504.04658"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5108166775"
+      },
+      "why_match": "While Professor Jie Liang's primary focus is on geology, his work on view synthesis may intersect with computer vision techniques that I am passionate about. I am particularly interested in how machine learning can be applied to enhance visual data interpretation, which could be a unique angle in his research.",
+      "tier": "target"
+    },
+    {
+      "name": "Qamar U. Zaman",
+      "institution": "Dalhousie University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Graph, Evapotranspiration, Vaccinium, Header",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Dynamic graph learning framework based seasonal and trend decomposition approach for potato crop evapotranspiration prediction",
+            "year": 2025,
+            "url": "https://doi.org/10.1038/s41598-025-28592-4"
+          },
+          {
+            "title": "Evaluation of a ground surface detection system using microwave radar to support automation of the wild blueberry (Vaccinium angustifolium Ait.) harvester header",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.atech.2025.101370"
+          },
+          {
+            "title": "Pattern matters: A deep learning approach with attention mechanism for text abstraction in low-ranked languages",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/s11042-025-21023-6"
+          },
+          {
+            "title": "Identifying yellow hawkweed in wild blueberry fields using drone images for site-specific herbicide application",
+            "year": 2025,
+            "url": "https://doi.org/10.13031/aim.202500616"
+          },
+          {
+            "title": "Leveraging Zero-Shot Detection Mechanisms to Accelerate Image Annotation for Machine Learning in Wild Blueberry (Vaccinium angustifolium Ait.)",
+            "year": 2024,
+            "url": "https://doi.org/10.3390/agronomy14122830"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5101795436"
+      },
+      "why_match": "Professor Qamar U. Zaman's research on dynamic graph learning and its applications in agriculture resonates with my interest in machine learning and its practical applications. His innovative approach to seasonal and trend decomposition could inspire new methodologies in my own research on predictive modeling.",
+      "tier": "target"
+    },
+    {
+      "name": "Chetan Ramaiah",
+      "institution": "Université de Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Leverage (statistics), Expression (computer science), Question answering, Boosting (machine learning)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Portrait Expression Editing With Mobile Photo Sequence",
+            "year": 2023,
+            "url": "https://doi.org/10.1145/3610543.3626160"
+          },
+          {
+            "title": "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation",
+            "year": 2022,
+            "url": "https://doi.org/10.48550/arxiv.2208.01813"
+          },
+          {
+            "title": "Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework",
+            "year": 2022,
+            "url": "https://doi.org/10.1109/cvpr52688.2022.01616"
+          },
+          {
+            "title": "Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework",
+            "year": 2022,
+            "url": "https://doi.org/10.48550/arxiv.2204.13207"
+          },
+          {
+            "title": "Burn After Reading: Online Adaptation for Cross-domain Streaming Data",
+            "year": 2022,
+            "url": "https://doi.org/10.1007/978-3-031-19827-4_24"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5091385020"
+      },
+      "why_match": "Professor Chetan Ramaiah's work on text-aware visual question-answer generation directly aligns with my interests in natural language processing and computer vision. His recent paper on portrait expression editing also highlights the intersection of these fields, which I am eager to explore further.",
+      "tier": "target"
+    },
+    {
+      "name": "Aijun An",
+      "institution": "York University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Generalization, Embedding, Socioeconomic status, Empirical research",
+      "evidence": {
+        "papers": [
+          {
+            "title": "ETTA: Efficient Test-Time Adaptation for Vision-Language Models through Dynamic Embedding Updates",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2508.05898"
+          },
+          {
+            "title": "Canada AI Day",
+            "year": 2025,
+            "url": "https://doi.org/10.1145/3711896.3737677"
+          },
+          {
+            "title": "A review of empirical research on equitable school leadership practices for students from low socioeconomic status backgrounds",
+            "year": 2025,
+            "url": "https://doi.org/10.1080/00131911.2025.2526437"
+          },
+          {
+            "title": "Topology-aware GPU job scheduling with deep reinforcement learning and heuristics",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.jpdc.2025.105138"
+          },
+          {
+            "title": "Ethical implications related to processing of personal data and artificial intelligence in humanitarian crises: a scoping review",
+            "year": 2025,
+            "url": "https://doi.org/10.1186/s12910-025-01189-2"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5009394818"
+      },
+      "why_match": "Professor Aijun An's research on efficient test-time adaptation for vision-language models is particularly relevant to my interests in machine learning and natural language processing. His focus on dynamic embedding updates could provide a solid foundation for my exploration of generalization in multimodal systems.",
+      "tier": "target"
+    },
+    {
+      "name": "Tao Sheng",
+      "institution": "Qualcomm (Canada)",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, ENCODE, Recall, Hyaluronic acid, Conjugate",
+      "evidence": {
+        "papers": [
+          {
+            "title": "LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2510.07233"
+          },
+          {
+            "title": "Chitosan-decorated silibinin-hyaluronic acid conjugate for enhancing intestinal absorption and improving liver fibrosis",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.ijbiomac.2025.146057"
+          },
+          {
+            "title": "Guided Design for Efficient On-device Object Detection Model",
+            "year": 2022,
+            "url": "https://doi.org/10.1201/9781003162810-10"
+          },
+          {
+            "title": "CentripetalText: An Efficient Text Instance Representation for Scene\\n Text Detection",
+            "year": 2021,
+            "url": "https://doi.org/10.48550/arxiv.2107.05945"
+          },
+          {
+            "title": "Bidirectional Regression for Arbitrary-Shaped Text Detection",
+            "year": 2021,
+            "url": "https://doi.org/10.48550/arxiv.2107.06129"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5103102376"
+      },
+      "why_match": "Professor Tao Sheng's work on visually-rich document understanding aligns with my interests in computer vision and machine learning. His recent research on layout-aware dynamic RAG could offer innovative perspectives on how to enhance visual data processing, which is an area I am keen to investigate.",
+      "tier": "target"
+    },
+    {
+      "name": "Radu Tudor Ionescu",
+      "institution": "Université de Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Rip current, Segmentation, Computer science, Anomaly detection, Inference",
+      "evidence": {
+        "papers": [
+          {
+            "title": "NTIRE 2026 Rip Current Detection and Segmentation (RipDetSeg) Challenge Report",
+            "year": 2026,
+            "url": "https://openalex.org/W7155245468"
+          },
+          {
+            "title": "NTIRE 2026 Rip Current Detection and Segmentation (RipDetSeg) Challenge Report",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2604.17070"
+          },
+          {
+            "title": "Out of Context: Reliability in Multimodal Anomaly Detection Requires Contextual Inference",
+            "year": 2026,
+            "url": "https://openalex.org/W7154789466"
+          },
+          {
+            "title": "Out of Context: Reliability in Multimodal Anomaly Detection Requires Contextual Inference",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2604.13252"
+          },
+          {
+            "title": "Large multimodal models for low-resource languages: A survey",
+            "year": 2026,
+            "url": "https://doi.org/10.1016/j.inffus.2026.104189"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5081017623"
+      },
+      "why_match": "Professor Radu Tudor Ionescu's focus on segmentation and anomaly detection in computer science is closely related to my interests in computer vision. His work on rip current detection could inspire new methodologies for detecting anomalies in visual data, which I find particularly intriguing.",
+      "tier": "target"
+    },
+    {
+      "name": "Virendrakumar C. Bhavsar",
+      "institution": "University of New Brunswick",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Parsing, Linguistics, Computer science, Natural language processing, Hindi",
+      "evidence": {
+        "papers": [
+          {
+            "title": "A Parsing Tool for Short Linguistic Constructions",
+            "year": 2023,
+            "url": "https://doi.org/10.1007/978-3-031-33231-9_2"
+          },
+          {
+            "title": "Knowledge engine for a Hindi text-to-scene generation system",
+            "year": 2022,
+            "url": "https://doi.org/10.1515/9783110713633-012"
+          },
+          {
+            "title": "Evaluation of Automatic Text Visualization Systems: A Case Study",
+            "year": 2020,
+            "url": "https://doi.org/10.1007/978-981-15-3383-9_3"
+          },
+          {
+            "title": "Virtual reality: an aid as cognitive learning environment—a case study of Hindi language",
+            "year": 2020,
+            "url": "https://doi.org/10.1007/s10055-020-00426-w"
+          },
+          {
+            "title": "Cognitive Intelligence",
+            "year": 2019,
+            "url": "https://doi.org/10.4018/978-1-7998-0414-7.ch084"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5111680679"
+      },
+      "why_match": "Professor Virendrakumar C. Bhavsar's research in natural language processing, particularly in parsing and linguistic constructions, aligns well with my interests. His work on a Hindi text-to-scene generation system could provide a unique perspective on integrating NLP with visual data, which I am eager to explore.",
+      "tier": "target"
+    },
+    {
+      "name": "Ruifan Li",
+      "institution": "Université de Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Encryption, Computer security, Modalities, Artificial intelligence",
+      "evidence": {
+        "papers": [
+          {
+            "title": "MET-LLM: Enhancing large language models for malicious encrypted traffic detection",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.eswa.2025.130621"
+          },
+          {
+            "title": "MRF: A Modality-Resilient Framework for Handling Missing Modalities in Multimodal Learning",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/978-981-95-3346-6_2"
+          },
+          {
+            "title": "SDG-MLLM: Injecting Structured Dialogue Graphs into MLLM for Multimodal Conversational Aspect-Based Sentiment Analysis",
+            "year": 2025,
+            "url": "https://doi.org/10.1145/3746027.3762071"
+          },
+          {
+            "title": "Actively masked reasoning over knowledge graphs for fault diagnosis under insufficient information condition",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.eswa.2025.128854"
+          },
+          {
+            "title": "Sentiment-aware Dual-flow Graph Convolutional Networks for Aspect Based Sentimental Analysis",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/ijcnn64981.2025.11229127"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5068728736"
+      },
+      "why_match": "Professor Ruifan Li's research on enhancing large language models for malicious encrypted traffic detection intersects with my interests in natural language processing and security. His work on modality-resilient frameworks could inspire innovative approaches to multimodal learning, an area I am passionate about.",
+      "tier": "target"
+    },
+    {
+      "name": "Esma Aı̈meur",
+      "institution": "Université de Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Fake news, Unpacking, Notice, Computer science, Key (lock)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Too Focused on Accuracy to Notice the Fallout: Towards Socially Responsible Fake News Detection",
+            "year": 2025,
+            "url": "https://doi.org/10.1609/aies.v8i1.36530"
+          },
+          {
+            "title": "Aletheia: Detect, Discuss, and Stay Informed on Fake News",
+            "year": 2025,
+            "url": "https://doi.org/10.24963/ijcai.2025/1273"
+          },
+          {
+            "title": "DEDALUS &amp; ICARUS: Image Privacy Classification Systems with Risk Oriented Explanations",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/pst65910.2025.11268869"
+          },
+          {
+            "title": "Explain further: multi-level explanations for fake news detection using large language models",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/s41870-025-02640-8"
+          },
+          {
+            "title": "Exploring the Power of Dual Deep Learning for Fake News Detection",
+            "year": 2025,
+            "url": "https://doi.org/10.31449/inf.v48i4.5977"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5014874624"
+      },
+      "why_match": "Professor Esma Aı̈meur's focus on socially responsible fake news detection resonates with my interests in natural language processing and its societal implications. His research on unpacking the nuances of fake news detection could provide a compelling framework for my exploration of ethical AI applications.",
+      "tier": "target"
+    },
+    {
+      "name": "Faisal Z. Qureshi",
+      "institution": "University of Ontario Institute of Technology",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Transformer, Artificial intelligence, Epistemology, Perspective (graphical)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "CascadedViT: Cascaded Chunk-FeedForward and Cascaded Group Attention Vision Transformer",
+            "year": 2026,
+            "url": "https://doi.org/10.21428/d82e957c.15e8e6a4"
+          },
+          {
+            "title": "Revisiting Person Re-ID: ConvNeXt with AIBN and TNorm in IICS/IIDS Frameworks",
+            "year": 2026,
+            "url": "https://doi.org/10.5220/0014228200004067"
+          },
+          {
+            "title": "Self-Attention Enhanced Student–Teacher Framework for Visual Anomaly Detection in Industrial Images",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/access.2026.3670056"
+          },
+          {
+            "title": "Prompt-Based Continual Compositional Zero-Shot Learning",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2512.09172"
+          },
+          {
+            "title": "AdVision: An efficient and effective deep learning based advertisement detector for printed media",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.mlwa.2025.100686"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5021630444"
+      },
+      "why_match": "Professor Faisal Z. Qureshi's work on Transformers and artificial intelligence aligns closely with my interests in machine learning and natural language processing. His recent research on vision transformers, particularly in the context of computer vision, resonates with my goal of exploring advanced AI techniques in visual data interpretation.",
+      "tier": "target"
+    },
+    {
+      "name": "Xiaojie Wang",
+      "institution": "Université de Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Remote sensing, Computer science, Radar, Interpretability, Machine learning",
+      "evidence": {
+        "papers": [
+          {
+            "title": "An Intelligent Identification Algorithm for Wildfire Echoes Based on Dual-Polarization Radar Monitoring",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/apet68390.2025.11428877"
+          },
+          {
+            "title": "Interpretable machine learning for urothelial cells classification and risk scoring in urine cytology",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.isci.2025.114259"
+          },
+          {
+            "title": "Multi-task Contrastive Learning Enhanced Instruction Tuning for Dialog Understanding",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/978-981-95-3349-7_5"
+          },
+          {
+            "title": "VL-DynaRefine: A Vision-Language Dynamic Refinement Approach for Visual Reasoning",
+            "year": 2025,
+            "url": "https://doi.org/10.1145/3746027.3755296"
+          },
+          {
+            "title": "ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2510.02361"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5100351304"
+      },
+      "why_match": "Professor Xiaojie Wang's focus on interpretability in machine learning, especially in remote sensing applications, connects with my interest in natural language processing and machine learning. His work on intelligent identification algorithms could provide valuable insights into how machine learning can be applied to real-world problems, which is a key area I wish to explore.",
+      "tier": "target"
+    },
+    {
+      "name": "Houssem Ben Braiek",
+      "institution": "Polytechnique Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Adversarial system, Computer science, Initialization, History, Primer (cosmetics)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Dynasto: Validity-Aware Dynamic-Static Parameter Optimization for Autonomous Driving Testing",
+            "year": 2026,
+            "url": "https://openalex.org/W7140347188"
+          },
+          {
+            "title": "List of contributors",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/b978-0-44-323761-4.00006-7"
+          },
+          {
+            "title": "Machine learning robustness: a primer",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/b978-0-44-323761-4.00012-2"
+          },
+          {
+            "title": "In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators",
+            "year": 2024,
+            "url": "https://doi.org/10.1145/3691620.3695281"
+          },
+          {
+            "title": "Trimming the Risk: Towards Reliable Continuous Training for Deep Learning Inspection Systems",
+            "year": 2024,
+            "url": "https://doi.org/10.48550/arxiv.2409.09108"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5091616184"
+      },
+      "why_match": "Professor Houssem Ben Braiek's research on adversarial systems and parameter optimization in autonomous driving aligns with my interests in machine learning and computer vision. His innovative approaches to enhancing system robustness could inform my work on developing more resilient AI models.",
+      "tier": "target"
+    },
+    {
+      "name": "Marie‐Jean Meurs",
+      "institution": "Concordia University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Species richness, Urban forest, Urbanization, Computer science, Speech recognition",
+      "evidence": {
+        "papers": [
+          {
+            "title": "SylvCiT - An AI-based support to urban forest resilience",
+            "year": 2026,
+            "url": "https://doi.org/10.1371/journal.pone.0339173"
+          },
+          {
+            "title": "CEREALES : a new dataset of Quebec French accented speech with applications to speech recognition",
+            "year": 2025,
+            "url": "https://doi.org/10.21437/interspeech.2025-1934"
+          },
+          {
+            "title": "An Urban Forest Diversification Software to Improve Resilience to Global Change",
+            "year": 2023,
+            "url": "https://doi.org/10.48044/jauf.2023.027"
+          },
+          {
+            "title": "Extracting Domain Models from Textual Requirements in the Era of Large Language Models",
+            "year": 2023,
+            "url": "https://doi.org/10.1109/models-c59198.2023.00096"
+          },
+          {
+            "title": "Investigating Self-Rationalizing Models for Commonsense Reasoning",
+            "year": 2023,
+            "url": "https://doi.org/10.3390/stats6030056"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5014324079"
+      },
+      "why_match": "Professor Marie‐Jean Meurs' research on AI applications in urban forestry and speech recognition is particularly intriguing to me. The intersection of computer science with environmental and linguistic challenges aligns with my interests in natural language processing and machine learning, providing a unique perspective on how AI can address diverse issues.",
+      "tier": "target"
+    },
+    {
+      "name": "Peixiang Zhong",
+      "institution": "BC Research (Canada)",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Recommender system, Knowledge graph, Rationality, Construct (python library)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Toward Knowledge-Enriched Conversational Recommendation Systems",
+            "year": 2022,
+            "url": "https://doi.org/10.18653/v1/2022.nlp4convai-1.17"
+          },
+          {
+            "title": "CARE: Commonsense-Aware Emotional Response Generation with Latent Concepts",
+            "year": 2021,
+            "url": "https://doi.org/10.1609/aaai.v35i16.17713"
+          },
+          {
+            "title": "ACT: an Attentive Convolutional Transformer for Efficient Text Classification",
+            "year": 2021,
+            "url": "https://doi.org/10.1609/aaai.v35i15.17566"
+          },
+          {
+            "title": "KECRS: Towards Knowledge-Enriched Conversational Recommendation System",
+            "year": 2021,
+            "url": "https://doi.org/10.48550/arxiv.2105.08261"
+          },
+          {
+            "title": "Keyword-Guided Neural Conversational Model",
+            "year": 2021,
+            "url": "https://doi.org/10.1609/aaai.v35i16.17712"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5083996480"
+      },
+      "why_match": "Professor Peixiang Zhong's work on knowledge-enriched conversational recommendation systems directly relates to my interests in natural language processing and machine learning. His focus on commonsense reasoning in AI could enhance my understanding of how to create more intuitive and effective AI systems.",
+      "tier": "target"
+    },
+    {
+      "name": "Hui Jiang",
+      "institution": "York University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Image (mathematics), Image retrieval, China, Business",
+      "evidence": {
+        "papers": [
+          {
+            "title": "GTAFL: Addressing Test-Agnostic Long-Tailed Federated Learning in Medical Image",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/jbhi.2026.3693747"
+          },
+          {
+            "title": "Exploring how green location-oriented industrial policies promote urban energy efficiency: evidence from National eco-industrial demonstration parks in China",
+            "year": 2025,
+            "url": "https://doi.org/10.1038/s41598-025-30186-z"
+          },
+          {
+            "title": "ETLight: An Evolution Transformer for Efficient Traffic Signal Control",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/tits.2025.3629415"
+          },
+          {
+            "title": "HSCodeComp: A Realistic and Expert-level Benchmark for Deep Search Agents in Hierarchical Rule Application",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2510.19631"
+          },
+          {
+            "title": "Application Study of Man-Machine Function Allocation and Local Task Analysis for Nuclear Power Plant",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/978-981-95-1908-8_8"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5101454723"
+      },
+      "why_match": "Professor Hui Jiang's research on image retrieval and federated learning in medical images aligns with my interests in computer vision and machine learning. His innovative approaches to image analysis could provide valuable insights for my own research in visual data processing.",
+      "tier": "target"
+    },
+    {
+      "name": "Stan Śzpakowicz",
+      "institution": "University of Ottawa",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Front (military), Joint (building), Geology, Computer science, Curiosity",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Front Matter",
+            "year": 2026,
+            "url": "https://doi.org/10.18653/v1/2026.latechclfl-1.0"
+          },
+          {
+            "title": "Front Matter",
+            "year": 2025,
+            "url": "https://doi.org/10.18653/v1/2025.latechclfl-1.0"
+          },
+          {
+            "title": "Front Matter",
+            "year": 2024,
+            "url": "https://doi.org/10.18653/v1/2024.latechclfl-1.0"
+          },
+          {
+            "title": "Semantic Relations Between Nominals, Second Edition",
+            "year": 2021,
+            "url": "https://doi.org/10.2200/s01078ed2v01y202002hlt049"
+          },
+          {
+            "title": "Semantic Relations and Deep Learning",
+            "year": 2021,
+            "url": "https://doi.org/10.1007/978-3-031-02178-7_5"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5111930106"
+      },
+      "why_match": "Professor Stan Śzpakowicz's work, while primarily focused on geology and military applications, offers a unique perspective on the integration of computer science in diverse fields. This interdisciplinary approach could enrich my understanding of machine learning applications beyond traditional domains.",
+      "tier": "target"
+    },
+    {
+      "name": "Ervin Sejdić",
+      "institution": "University of Toronto",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Artificial intelligence, Interpretability, Machine learning, Generalizability theory, Computer science",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Novel machine learning fusion architectures integrating electrocardiogram representations: applications to acute coronary event detection.",
+            "year": 2026,
+            "url": "https://doi.org/10.17615/8trm-ee34"
+          },
+          {
+            "title": "Novel Machine Learning Fusion Architectures Integrating Electrocardiogram Representations: Applications to Acute Coronary Event Detection",
+            "year": 2026,
+            "url": "https://doi.org/10.17615/cqab-hn20"
+          },
+          {
+            "title": "Novel machine learning fusion architectures integrating electrocardiogram representations: applications to acute coronary event detection",
+            "year": 2026,
+            "url": "https://doi.org/10.1093/ehjdh/ztag062"
+          },
+          {
+            "title": "Enhancing generalizability in classification of peripheral neural recordings with graph neural network",
+            "year": 2026,
+            "url": "https://doi.org/10.1371/journal.pone.0345204"
+          },
+          {
+            "title": "Balancing Model Complexity and Clinical Deployability in Deep Learning for Sociodemographic Information Extraction",
+            "year": 2025,
+            "url": "https://doi.org/10.1177/21501319251404193"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5031279847"
+      },
+      "why_match": "Professor Ervin Sejdić's research on machine learning and interpretability, particularly in medical applications, resonates with my interests in developing interpretable AI systems. His work on fusion architectures could inspire my own research in creating robust models for complex data.",
+      "tier": "target"
+    },
+    {
+      "name": "Karim Malik",
+      "institution": "University of Toronto",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Snow, Water equivalent, Climate change, Winter season, Climatology",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Change detection in snow water equivalent using a Siamese UNet model",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/acdsa65407.2025.11166084"
+          },
+          {
+            "title": "Estimating Snow-Related Daily Change Events in the Canadian Winter Season: A Deep Learning-Based Approach",
+            "year": 2025,
+            "url": "https://doi.org/10.3390/jimaging11070239"
+          },
+          {
+            "title": "Estimating Snow‐Related Daily Change Events in the Canadian Winter Season: A Deep Learning‐Based Approach",
+            "year": 2025,
+            "url": "https://doi.org/10.20944/preprints202505.1600.v1"
+          },
+          {
+            "title": "Structural Similarity-Guided Siamese U-Net Model for Detecting Changes in Snow Water Equivalent",
+            "year": 2025,
+            "url": "https://doi.org/10.3390/rs17091631"
+          },
+          {
+            "title": "Structural Similarity Guided Siamese U-Net Model for Detecting Changes in Snow Water Equivalent",
+            "year": 2025,
+            "url": "https://doi.org/10.20944/preprints202503.0781.v1"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5015497344"
+      },
+      "why_match": "Professor Karim Malik's focus on deep learning applications in climate change and snow water equivalent detection is an intriguing intersection of machine learning and environmental science. This aligns with my interest in applying AI techniques to real-world challenges, particularly in understanding complex systems.",
+      "tier": "target"
+    },
+    {
+      "name": "F. Richard Yu",
+      "institution": "Carleton University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Fuse (electrical), Artificial intelligence, Pollen, Biology",
+      "evidence": {
+        "papers": [
+          {
+            "title": "VSE-MOT: Multi-object tracking in low-quality video scenes guided by visual semantic enhancement",
+            "year": 2026,
+            "url": "https://doi.org/10.1016/j.patcog.2026.114038"
+          },
+          {
+            "title": "Canonical Rab5 GTPases Confer Heat‐Stress Resilience to Pollen Germination",
+            "year": 2026,
+            "url": "https://doi.org/10.1111/pce.70574"
+          },
+          {
+            "title": "MBE4D: Multi-View Background-Editable 4D Generation from a Single Image",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/icassp55912.2026.11462321"
+          },
+          {
+            "title": "SceneRAG: Scene-Level Retrieval-Augmented Generation for Video Understanding",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/icassp55912.2026.11462022"
+          },
+          {
+            "title": "Asymmetric Region Denoising and Rotation Equivariant for image Reflection Symmetry Detection",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/icassp55912.2026.11464977"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5100420016"
+      },
+      "why_match": "Professor F. Richard Yu's research on multi-object tracking and artificial intelligence in low-quality video scenes connects with my interests in computer vision and machine learning. His work on enhancing visual semantic understanding could provide valuable insights for my own research in visual data interpretation.",
+      "tier": "target"
+    },
+    {
+      "name": "Babak Taati",
+      "institution": "Toronto Rehabilitation Institute",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Extrapolation, Rope, Scaling, Synthetic data, Selection (genetic algorithm)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2605.22668"
+          },
+          {
+            "title": "SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers",
+            "year": 2026,
+            "url": "https://openalex.org/W7162218609"
+          },
+          {
+            "title": "LiBaGS: Lightweight Boundary Gap Synthesis for Targeted Synthetic Data Selection",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2605.11231"
+          },
+          {
+            "title": "LiBaGS: Lightweight Boundary Gap Synthesis for Targeted Synthetic Data Selection",
+            "year": 2026,
+            "url": "https://openalex.org/W7161354108"
+          },
+          {
+            "title": "GEAR: Genetic AutoResearch for Agentic Code Evolution",
+            "year": 2026,
+            "url": "https://openalex.org/W7161452113"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5011257199"
+      },
+      "why_match": "Professor Babak Taati's work on synthetic data and resolution extrapolation aligns well with my interests in machine learning and computer vision. His recent research on spectral-energy guided attention in diffusion transformers could provide valuable insights for my exploration of advanced machine learning techniques in visual data processing.",
+      "tier": "target"
+    },
+    {
+      "name": "Fredrik Kahl",
+      "institution": "Western University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Artificial intelligence, Pattern recognition (psychology), Merge (version control), Algorithm",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Semi-Supervised Hierarchical Open-Set Classification",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/wacv61042.2026.00198"
+          },
+          {
+            "title": "RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2511.20823"
+          },
+          {
+            "title": "MuM: Multi-View Masked Image Modeling for 3D Vision",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2511.17309"
+          },
+          {
+            "title": "RoMa v2: Harder Better Faster Denser Feature Matching",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2511.15706"
+          },
+          {
+            "title": "Trexplorer Super: Topologically Correct Centerline Tree Tracking of Tubular Objects in CT Volumes",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/978-3-032-04984-1_57"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5112556001"
+      },
+      "why_match": "Professor Fredrik Kahl's focus on pattern recognition and artificial intelligence resonates with my passion for natural language processing and machine learning. His work on semi-supervised hierarchical open-set classification could inform my research on developing robust models for understanding complex data patterns.",
+      "tier": "target"
+    },
+    {
+      "name": "Hossein Hajimirsadeghi",
+      "institution": "Simon Fraser University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Artificial intelligence, Generalizability theory, Reinforcement learning, Decoding methods",
+      "evidence": {
+        "papers": [
+          {
+            "title": "You Need Reasoning to Learn Reasoning: The Limitations of Label-Free RL in Weak Base Models",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2511.04902"
+          },
+          {
+            "title": "TabReason: A Reinforcement Learning-Enhanced Reasoning LLM for Explainable Tabular Data Prediction",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2505.21807"
+          },
+          {
+            "title": "Radar: Fast Long-Context Decoding for Any Transformer",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2503.10571"
+          },
+          {
+            "title": "Attention as an RNN",
+            "year": 2024,
+            "url": "https://doi.org/10.48550/arxiv.2405.13956"
+          },
+          {
+            "title": "Tree Cross Attention",
+            "year": 2023,
+            "url": "https://doi.org/10.48550/arxiv.2309.17388"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5060135722"
+      },
+      "why_match": "Professor Hossein Hajimirsadeghi's research on reinforcement learning and generalizability theory is particularly relevant to my interests in machine learning. His recent work on explainable tabular data prediction could enhance my understanding of how to apply machine learning techniques to real-world problems.",
+      "tier": "target"
+    },
+    {
+      "name": "Łukasz Romaszko",
+      "institution": "Université de Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Artificial intelligence, Cardiac cycle, Inference, Graphics",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Neural network-based left ventricle geometry prediction from CMR images with application in biomechanics",
+            "year": 2021,
+            "url": "https://doi.org/10.1016/j.artmed.2021.102140"
+          },
+          {
+            "title": "Dataset for: Learning Direct Optimization for Scene Understanding",
+            "year": 2020,
+            "url": "https://doi.org/10.17632/gr62b6d33h.1"
+          },
+          {
+            "title": "3D scene graph inference and refinement for vision-as-inverse-graphics",
+            "year": 2020,
+            "url": "https://doi.org/10.7488/era/307"
+          },
+          {
+            "title": "Learning Direct Optimization for scene understanding",
+            "year": 2020,
+            "url": "https://doi.org/10.1016/j.patcog.2020.107369"
+          },
+          {
+            "title": "Direct Learning Left Ventricular Meshes from CMR Images",
+            "year": 2019,
+            "url": "https://doi.org/10.11159/icsta19.25"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5050122055"
+      },
+      "why_match": "Professor Łukasz Romaszko's research on neural networks and inference in medical imaging aligns with my interests in computer vision and machine learning. His work on predicting left ventricle geometry from cardiac images could inspire my exploration of applying machine learning to healthcare-related visual data.",
+      "tier": "target"
+    },
+    {
+      "name": "Wentao Zhang",
+      "institution": "HEC Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Benchmark (surveying), Grading (engineering), Medicine, Internal medicine",
+      "evidence": {
+        "papers": [
+          {
+            "title": "SAS-bench: A fine-grained benchmark for evaluating short answer scoring with large language models",
+            "year": 2026,
+            "url": "https://doi.org/10.1016/j.neunet.2026.109199"
+          },
+          {
+            "title": "Post-chemotherapy C-reactive protein/albumin ratio predicts prognosis in stage II-III colorectal cancer",
+            "year": 2026,
+            "url": "https://doi.org/10.4240/wjgs.v18.i2.112924"
+          },
+          {
+            "title": "Scone: Bridging Composition and Distinction in Subject-Driven Image Generation via Unified Understanding-Generation Modeling",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2512.12675"
+          },
+          {
+            "title": "BRACE: A Benchmark for Robust Audio Caption Quality Evaluation",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2512.10403"
+          },
+          {
+            "title": "DOCR-Inspector: Fine-Grained and Automated Evaluation of Document Parsing with VLM",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2512.10619"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5008772211"
+      },
+      "why_match": "Professor Wentao Zhang's focus on evaluating large language models through benchmarks is directly related to my interests in natural language processing. His recent work on short answer scoring could provide a framework for my research on improving language understanding in AI systems.",
+      "tier": "target"
+    },
+    {
+      "name": "William W. Hsieh",
+      "institution": "University of British Columbia",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Climate science, Climate change, Data science, Hyperspectral imaging, Polarimetry",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Machine Learning in Environmental and Climate Science: Overview and Introduction",
+            "year": 2025,
+            "url": "https://doi.org/10.1093/acrefore/9780190228620.013.952"
+          },
+          {
+            "title": "Mitigating Illumination-, Leaf-, and View-Angle Dependencies in Hyperspectral Imaging Using Polarimetry",
+            "year": 2024,
+            "url": "https://doi.org/10.34133/plantphenomics.0157"
+          },
+          {
+            "title": "Mitigating illumination-, leaf-, and view-angle dependencies in hyperspectral imaging using polarimetry.",
+            "year": 2023,
+            "url": "https://doi.org/10.31220/agrirxiv.2023.00207"
+          },
+          {
+            "title": "Classification",
+            "year": 2023,
+            "url": "https://doi.org/10.1017/9781107588493.013"
+          },
+          {
+            "title": "Deep Learning",
+            "year": 2023,
+            "url": "https://doi.org/10.1017/9781107588493.016"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5002339270"
+      },
+      "why_match": "Professor William W. Hsieh's expertise in data science and machine learning applications in climate science is intriguing, as it intersects with my interests in applying machine learning to diverse fields. His work on hyperspectral imaging could inspire innovative approaches in my research on visual data analysis.",
+      "tier": "target"
+    },
+    {
+      "name": "Matthias Wilms",
+      "institution": "University of Calgary",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Artificial intelligence, Computer science, Pattern recognition (psychology), Sociotechnical system, Health care",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Towards resolution-independent retinal image classification using implicit neural representations",
+            "year": 2026,
+            "url": "https://doi.org/10.1117/12.3086162"
+          },
+          {
+            "title": "Performance disparity analysis of a generative classifier for multiclass fundus image classification",
+            "year": 2026,
+            "url": "https://doi.org/10.1117/12.3086176"
+          },
+          {
+            "title": "Connecting algorithmic fairness and fair outcomes in a sociotechnical simulation case study of AI-assisted healthcare",
+            "year": 2025,
+            "url": "https://doi.org/10.1038/s41467-025-67470-5"
+          },
+          {
+            "title": "Digital dementia and testing of cognitive intervention for degenerating neural networks",
+            "year": 2025,
+            "url": "https://doi.org/10.1038/s41540-025-00596-w"
+          },
+          {
+            "title": "Interpretable convolutional neural network for autism diagnosis support in children using structural magnetic resonance imaging datasets",
+            "year": 2025,
+            "url": "https://doi.org/10.1117/1.jmi.12.6.064501"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5051753610"
+      },
+      "why_match": "Professor Matthias Wilms' research on pattern recognition and artificial intelligence in medical imaging aligns with my interests in computer vision. His work on retinal image classification using implicit neural representations could inform my exploration of advanced techniques in visual data interpretation.",
+      "tier": "target"
+    },
+    {
+      "name": "Matthew Li",
+      "institution": "University of Alberta",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Medicine, Foundation (evidence), General purpose, Sacroiliitis, Sacroiliac joint",
+      "evidence": {
+        "papers": [
+          {
+            "title": "General Purpose Artificial Intelligence for Abdominal CT Using a 3D Vision-Language Foundation Model",
+            "year": 2026,
+            "url": "https://doi.org/10.2214/ajr.26.35179"
+          },
+          {
+            "title": "The challenge of bringing advances in sacroiliac joint imaging to the clinic",
+            "year": 2026,
+            "url": "https://doi.org/10.1097/bor.0000000000001163"
+          },
+          {
+            "title": "Leveraging deep learning to infer continuous predictions from ordinal labels in medical imaging",
+            "year": 2026,
+            "url": "https://doi.org/10.1371/journal.pdig.0001248"
+          },
+          {
+            "title": "DiSCo: Diffusion Sequence Copilots for Shared Autonomy",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2603.22787"
+          },
+          {
+            "title": "Nerol alleviates obesity and modulates gut microbiota in high-fat diet-fed mice",
+            "year": 2025,
+            "url": "https://doi.org/10.26599/fshw.2025.9250858"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5001701963"
+      },
+      "why_match": "Professor Matthew Li's focus on general-purpose artificial intelligence and 3D vision-language models is highly relevant to my interests in machine learning and natural language processing. His work on abdominal CT imaging could provide a unique perspective on integrating visual and textual data in AI applications.",
+      "tier": "target"
+    },
+    {
+      "name": "Colin Bellinger",
+      "institution": "National Research Council Canada",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Metric (unit), Computer science, Machine learning, Reinforcement learning, Control theory (sociology)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Correcting Performance Estimation Bias in Imbalanced Classification with Minority Subconcepts",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2604.26024"
+          },
+          {
+            "title": "Correcting Performance Estimation Bias in Imbalanced Classification with Minority Subconcepts",
+            "year": 2026,
+            "url": "https://openalex.org/W7159734317"
+          },
+          {
+            "title": "Adaptive Policy Regularization for Smooth Control in Reinforcement Learning",
+            "year": 2026,
+            "url": "https://doi.org/10.36227/techrxiv.177004949.91897305/v1"
+          },
+          {
+            "title": "Stability Governor-guided RLMPC for Robot Manipulators",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/cdc57313.2025.11312336"
+          },
+          {
+            "title": "General and Efficient Visual Goal-Conditioned Reinforcement Learning using Object-Agnostic Masks",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2510.06277"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5033365772"
+      },
+      "why_match": "Professor Colin Bellinger's research on machine learning and reinforcement learning is closely aligned with my interests in developing intelligent systems. His work on correcting performance estimation bias in imbalanced classification could enhance my understanding of fairness and accuracy in machine learning models.",
+      "tier": "target"
+    },
+    {
+      "name": "Ying He",
+      "institution": "Carleton University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Interpretability, Leiomyoma, Artificial intelligence, Computer science, Robot",
+      "evidence": {
+        "papers": [
+          {
+            "title": "An interpretable model based on weakly supervised learning for uterine smooth muscle tumor diagnosis: A multi-center study",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.prp.2025.156337"
+          },
+          {
+            "title": "TagGuideBot: Enhancing Robot Intelligence with Object Tags and VLMs",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/iros60139.2025.11246581"
+          },
+          {
+            "title": "Intelligent recommendation and optimization system of educational resources based on DNN",
+            "year": 2025,
+            "url": "https://doi.org/10.1177/14727978251385137"
+          },
+          {
+            "title": "SoK: Semantic Privacy in Large Language Models",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2506.23603"
+          },
+          {
+            "title": "Resource Allocation for Semantic Segmentation Tasks in Autonomous Driving: A Likelihood Active Inference Approach",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/icassp49660.2025.10890137"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5100693513"
+      },
+      "why_match": "Professor Ying He's focus on interpretability in artificial intelligence is particularly relevant to my interests in natural language processing and machine learning. Her work on weakly supervised learning for medical diagnosis could inspire my research on making AI systems more transparent and understandable.",
+      "tier": "target"
+    },
+    {
+      "name": "Mahdi S. Hosseini",
+      "institution": "University of New Brunswick",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Artificial intelligence, Contextual image classification, Deep learning, Leverage (statistics)",
+      "evidence": {
+        "papers": [
+          {
+            "title": "PathTTT: Test-Time Training with Meta-auxiliary Learning for Pathology Image Classification",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/978-3-031-96628-6_3"
+          },
+          {
+            "title": "Deep Learning for Automated Crack Recognition: Insights, Challenges, and Future Directions",
+            "year": 2025,
+            "url": "https://doi.org/10.22260/isarc2025/0160"
+          },
+          {
+            "title": "ADPv2: A Hierarchical Histological Tissue Type-Annotated Dataset for Potential Biomarker Discovery of Colorectal Disease",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2507.05656"
+          },
+          {
+            "title": "SPARC: Concept-Aligned Sparse Autoencoders for Cross-Model and Cross-Modal Interpretability",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2507.06265"
+          },
+          {
+            "title": "2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/cvpr52734.2025.00339"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5073426758"
+      },
+      "why_match": "Professor Mahdi S. Hosseini's work on contextual image classification and deep learning aligns perfectly with my interest in computer vision. His recent research on automated crack recognition could provide valuable insights into applying machine learning techniques to real-world image analysis problems.",
+      "tier": "target"
+    },
+    {
+      "name": "Yi Xin",
+      "institution": "University of Saskatchewan",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Deep learning, Computer science, Artificial intelligence, Lineage (genetic), Troubleshooting",
+      "evidence": {
+        "papers": [
+          {
+            "title": "CACLENS: A Multitask Deep Learning System for Enzyme Discovery",
+            "year": 2025,
+            "url": "https://doi.org/10.1002/advs.202518063"
+          },
+          {
+            "title": "DataLineage RCA: Root Cause Diagnosis for Data Lineage Issues Using Large Language Model-Based Agents",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/trustcom66490.2025.00281"
+          },
+          {
+            "title": "GE-adapter: A general and efficient adapter for enhanced video editing with pretrained text-to-image diffusion models",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.eswa.2025.129649"
+          },
+          {
+            "title": "A Review of 2D Diffusion Methods for 3D Medical Image Synthesis",
+            "year": 2025,
+            "url": "https://doi.org/10.5281/zenodo.17238423"
+          },
+          {
+            "title": "The difference between cystatin C- and creatinine-based estimated glomerular filtration rate and risk of hypertension: a population-based study in middle-aged and elderly Chinese",
+            "year": 2025,
+            "url": "https://doi.org/10.20517/jca.2024.30"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5006921976"
+      },
+      "why_match": "Professor Yi Xin's focus on deep learning and his recent work on enzyme discovery using multitask systems resonates with my passion for machine learning applications. Additionally, his exploration of large language models for data lineage issues connects with my interest in natural language processing.",
+      "tier": "target"
+    },
+    {
+      "name": "Ken Barker",
+      "institution": "University of Ottawa",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Embedding, Computer science, Context (archaeology), Internet of Things, Computer security",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Granite Embedding Multilingual R2 Models",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2605.13521"
+          },
+          {
+            "title": "Granite Embedding Multilingual R2 Models",
+            "year": 2026,
+            "url": "https://openalex.org/W7161354714"
+          },
+          {
+            "title": "PADOME: Adaptive Privacy Assistant for the Internet of Things",
+            "year": 2026,
+            "url": "https://doi.org/10.1007/978-3-032-16089-8_14"
+          },
+          {
+            "title": "Granite Embedding R2 Models",
+            "year": 2025,
+            "url": "https://doi.org/10.48550/arxiv.2508.21085"
+          },
+          {
+            "title": "Distilling Event Sequence Knowledge From Large Language Models",
+            "year": 2024,
+            "url": "https://doi.org/10.1007/978-3-031-77844-5_13"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5087768439"
+      },
+      "why_match": "Professor Ken Barker's research on embedding and context, particularly in archaeology, offers a unique perspective that could enhance my understanding of machine learning applications in diverse fields. His innovative approaches to multilingual models could also inform my interests in natural language processing.",
+      "tier": "target"
+    },
+    {
+      "name": "Yonatan Belinkov",
+      "institution": "Artificial Intelligence in Medicine (Canada)",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "ENCODE, Computer science, Feature (linguistics), Pairwise comparison, Protein folding",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2602.23179"
+          },
+          {
+            "title": "Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models",
+            "year": 2026,
+            "url": "https://openalex.org/W7131909528"
+          },
+          {
+            "title": "Mechanisms of AI Protein Folding in ESMFold",
+            "year": 2026,
+            "url": "https://openalex.org/W7128097371"
+          },
+          {
+            "title": "Mechanisms of AI Protein Folding in ESMFold",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2602.06020"
+          },
+          {
+            "title": "Ancestral sequence reconstruction using generative models",
+            "year": 2026,
+            "url": "https://doi.org/10.64898/2026.01.18.700141"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5051184573"
+      },
+      "why_match": "Professor Yonatan Belinkov's work on feature extraction in linguistics and his research on protein language models align with my interests in natural language processing. His interdisciplinary approach could provide a fascinating framework for exploring the intersection of language and machine learning.",
+      "tier": "target"
+    },
+    {
+      "name": "Vijay Mago",
+      "institution": "Lakehead University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Robustness (evolution), Computer science, Artificial intelligence, Raising (metalworking), Psychology",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Compact Multimodal Language Models as Robust OCR Alternatives for Noisy Textual Clinical Reports",
+            "year": 2026,
+            "url": "https://doi.org/10.48448/yh6m-wp25"
+          },
+          {
+            "title": "Reimagining psychiatric care with agentic AI: promise, challenges, and a roadmap forward",
+            "year": 2026,
+            "url": "https://doi.org/10.1038/s41746-026-02453-4"
+          },
+          {
+            "title": "Jointly Trained Automation of Explainable Construction Material Knowledge",
+            "year": 2026,
+            "url": "https://doi.org/10.1111/exsy.70209"
+          },
+          {
+            "title": "Compact Multimodal Language Models as Robust OCR Alternatives for Noisy Textual Clinical Reports",
+            "year": 2026,
+            "url": "https://doi.org/10.18653/v1/2026.eacl-industry.4"
+          },
+          {
+            "title": "Computational Cardiovascular Disease Screening Tools and Risk Assessment: A Systematic Review of Algorithmic Bias, Fairness Interventions, and Health Equity for Black Women",
+            "year": 2026,
+            "url": "https://doi.org/10.2139/ssrn.6295398"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5026089310"
+      },
+      "why_match": "Professor Vijay Mago's research on robust multimodal language models for clinical reports directly connects with my interests in machine learning and natural language processing. His focus on AI applications in healthcare could inspire innovative solutions to real-world challenges.",
+      "tier": "target"
+    },
+    {
+      "name": "Shaina Raza",
+      "institution": "Vector Institute",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Timeline, Computer science, Data science, Benchmark (surveying), Suite",
+      "evidence": {
+        "papers": [
+          {
+            "title": "The rise of small language models in healthcare: A comprehensive survey",
+            "year": 2026,
+            "url": "https://doi.org/10.1016/j.cosrev.2026.100999"
+          },
+          {
+            "title": "Vector Institute MLA Cohort 10 Presentation - SONIC-O1: A Real-World Benchmark for Evaluating Multimodal Large Language Models on Audio-Video Understanding",
+            "year": 2026,
+            "url": "https://doi.org/10.5281/zenodo.18761385"
+          },
+          {
+            "title": "Vector Institute MLA Cohort 10 Presentation - SONIC-O1: A Real-World Benchmark for Evaluating Multimodal Large Language Models on Audio-Video Understanding",
+            "year": 2026,
+            "url": "https://doi.org/10.5281/zenodo.18761384"
+          },
+          {
+            "title": "VLDBench Evaluating multimodal disinformation with regulatory alignment",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.inffus.2025.104092"
+          },
+          {
+            "title": "Responsible Agentic Reasoning and AI Agents: A Critical Survey",
+            "year": 2025,
+            "url": "https://doi.org/10.36227/techrxiv.175735299.97215847/v3"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5053939840"
+      },
+      "why_match": "Professor Shaina Raza's work on multimodal large language models and their applications in healthcare aligns with my interests in both natural language processing and machine learning. Her comprehensive surveys on emerging technologies could provide valuable insights for my research.",
+      "tier": "target"
+    },
+    {
+      "name": "Richong Zhang",
+      "institution": "University of Ottawa",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Automatic summarization, Artificial intelligence, Mathematics, Estimator",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Multimodal Abstractive Summarization of Instructional Videos with Vision-Language Models",
+            "year": 2026,
+            "url": "https://openalex.org/W7161204718"
+          },
+          {
+            "title": "Multimodal Abstractive Summarization of Instructional Videos with Vision-Language Models",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2605.11959"
+          },
+          {
+            "title": "Beyond Bellman: High-Order Generator Regression for Continuous-Time Policy Evaluation",
+            "year": 2026,
+            "url": "https://openalex.org/W7155451597"
+          },
+          {
+            "title": "Beyond Bellman: High-Order Generator Regression for Continuous-Time Policy Evaluation",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2604.18972"
+          },
+          {
+            "title": "Expectation-Maximization Driven Contrastive Disentanglement for Generalized Category Discovery",
+            "year": 2026,
+            "url": "https://doi.org/10.1145/3774904.3792255"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5027015677"
+      },
+      "why_match": "Professor Richong Zhang's focus on automatic summarization and vision-language models is highly relevant to my interests in machine learning and natural language processing. His recent work on multimodal summarization of instructional videos could inspire innovative approaches to content understanding.",
+      "tier": "target"
+    },
+    {
+      "name": "Paloma L. Prieto",
+      "institution": "University of British Columbia",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Interoperability, Workflow, Self driving, Artificial intelligence",
+      "evidence": {
+        "papers": [
+          {
+            "title": "IvoryOS: an interoperable web interface for orchestrating Python-based self-driving laboratories",
+            "year": 2025,
+            "url": "https://doi.org/10.1038/s41467-025-60514-w"
+          },
+          {
+            "title": "IvoryOS: an interoperable operating system for flexible self-driving laboratories",
+            "year": 2024,
+            "url": "https://doi.org/10.21203/rs.3.rs-5307798/v1"
+          },
+          {
+            "title": "From eyes to cameras: Computer vision for high-throughput liquid-liquid separation",
+            "year": 2024,
+            "url": "https://doi.org/10.1016/j.device.2024.100404"
+          },
+          {
+            "title": "From Eyes to Cameras: Computer Vision for High-Throughput Liquid-Liquid Separation",
+            "year": 2024,
+            "url": "https://doi.org/10.26434/chemrxiv-2024-vt6z8"
+          },
+          {
+            "title": "Best Practices for the Collection of Robust Time Course Reaction Profiles for Kinetic Studies",
+            "year": 2023,
+            "url": "https://doi.org/10.1021/acscatal.2c05045"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5068684390"
+      },
+      "why_match": "Professor Paloma L. Prieto's research on interoperability and self-driving laboratories presents an exciting intersection of computer science and practical applications. Her work could provide insights into how machine learning can enhance workflow efficiency in complex systems.",
+      "tier": "target"
+    },
+    {
+      "name": "Ayan Chaudhury",
+      "institution": "Western University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Artificial intelligence, Computer science, Computer vision, Dual (grammatical number), Encoder",
+      "evidence": {
+        "papers": [
+          {
+            "title": "Deformable Shape Registration from Inexact Correspondences",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/icip55913.2025.11084313"
+          },
+          {
+            "title": "Bicycledualnet: Bicyclegan-Powered Dual Encoder Network for Single Image 3D Reconstruction",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/icip55913.2025.11084579"
+          },
+          {
+            "title": "Spatio-Temporal Correspondence Estimation of Growing Plants by Hausdorff Distance based Skeletonization for Organ Tracking",
+            "year": 2024,
+            "url": "https://doi.org/10.1109/icra57147.2024.10610490"
+          },
+          {
+            "title": "Transferring PointNet++ Segmentation from Virtual to Real Plants",
+            "year": 2023,
+            "url": "https://doi.org/10.5281/zenodo.7565640"
+          },
+          {
+            "title": "A Deep OCR for Degraded Bangla Documents",
+            "year": 2022,
+            "url": "https://doi.org/10.1145/3511807"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5027556687"
+      },
+      "why_match": "Professor Ayan Chaudhury's research in computer vision and artificial intelligence, particularly in 3D reconstruction, aligns well with my interests. His innovative approaches to shape registration could inform my exploration of visual data processing techniques.",
+      "tier": "target"
+    },
+    {
+      "name": "Aris Leivadeas",
+      "institution": "École de Technologie Supérieure",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "Computer science, Encoding (memory), Benchmark (surveying), JSON, Knowledge graph",
+      "evidence": {
+        "papers": [
+          {
+            "title": "A Comprehensive Long-duration 8K Dataset to Benchmark Hardware Encoding for Live 360° Video Tiled Streaming",
+            "year": 2026,
+            "url": "https://doi.org/10.1145/3793853.3799804"
+          },
+          {
+            "title": "Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models",
+            "year": 2026,
+            "url": "https://openalex.org/W7129180781"
+          },
+          {
+            "title": "Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models",
+            "year": 2026,
+            "url": "https://doi.org/10.48550/arxiv.2602.12419"
+          },
+          {
+            "title": "An End-to-End Smart Radio Log Anomaly Detection Architecture for 5G/6G Networks",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/mcom.001.2500313"
+          },
+          {
+            "title": "Compressing Data and Deep Learning Models for Green Edge Computing",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/globecom59602.2025.11432330"
+          }
+        ],
+        "openalex_profile": "https://openalex.org/A5003789929"
+      },
+      "why_match": "Professor Aris Leivadeas's work on encoding and benchmarking in computer science is intriguing, especially in the context of large language models. His research could provide a solid foundation for understanding the technical aspects of machine learning applications in various domains.",
+      "tier": "target"
+    }
+  ]
+}
