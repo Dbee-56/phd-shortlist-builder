@@ -1,0 +1,19 @@
+[{
+  "name": "Priya Sharma",
+  "research_interests": [
+    "Machine Learning",
+    "Natural Language Processing",
+    "Computer Vision"
+  ],
+  "target_countries": ["Canada"],
+  "target_intake": "Fall 2025",
+  "education": [
+    {
+      "degree": "B.Tech Computer Science",
+      "institution": "IIT Madras",
+      "grade": "9.1 CGPA"
+    }
+  ],
+  "skills": ["Python", "PyTorch", "Transformers"],
+  "publications": []
+}]
